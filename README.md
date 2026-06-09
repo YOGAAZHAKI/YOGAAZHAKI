@@ -43,6 +43,8 @@ Building AI solutions that solve real-world problems 🚀
 
 # 🌐 Connect With Me
 
+
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/yogaazhaki-saravanan/" target="_blank">
@@ -117,12 +119,17 @@ Building AI solutions that solve real-world problems 🚀
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/> https://leetcode.com/u/yogaazhakiS/
+<a href=" https://leetcode.com/u/yogaazhakiS/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>- https://www.hackerrank.com/profile/yogaazhaki
+<a href="- https://www.hackerrank.com/profile/yogaazhaki">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/> https://www.geeksforgeeks.org/profile/yogaazyrtr
-
+<a href="[YOUR_GFG_LINK](https://www.geeksforgeeks.org/profile/yogaazyrtr)">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+</a>
 
 </p>
 
@@ -166,5 +173,4 @@ while True:
 
 🚀 Turning ideas into AI-powered solutions.
 
-```
-```
+
